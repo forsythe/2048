@@ -1,5 +1,5 @@
 ### Summary
-The popular 2048 game made for the TI. Something I made during a particularly boring day in class.
+The popular 2048 game made for the TI graphing calculators. Something I made during a particularly boring day in class.
 
 ### Demo
 ![controls](http://38.media.tumblr.com/e85941ae3a92ab670ce086855bc2977b/tumblr_inline_nd0urpQMmJ1t2vup9.gif)
